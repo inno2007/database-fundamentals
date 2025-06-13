@@ -9,17 +9,16 @@ This repository contains summarized notes and examples based on university-level
 ```
 database-fundamentals/
 ├── README.md
-└── theory/
-    ├── database-introduction.md
-    ├── data-modeling-and-erd.md
-    ├── normalization.md
-    ├── constraints-integrity.md
-    ├── sql-basics.md
-    ├── joins-and-relationships.md
-    ├── advanced-sql.md
-    ├── dml-operations.md
-    ├── date-functions.md
-    └── business-intelligence.md
+├── database-introduction.md
+├── data-modeling-and-erd.md
+├── normalization.md
+├── constraints-integrity.md
+├── sql-basics.md
+├── joins-and-relationships.md
+├── advanced-sql.md
+├── dml-operations.md
+├── date-functions.md
+└── business-intelligence.md
 ```
 
 ---
