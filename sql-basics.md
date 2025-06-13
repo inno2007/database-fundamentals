@@ -182,4 +182,9 @@ WHERE address LIKE '%A%' AND (Shop LIKE 'H%' OR Shop LIKE 'S%')
 | Concept     | Key Command           |
 |-------------|------------------------|
 | Retrieve    | SELECT                 |
-| Filter      | WHERE
+| Filter      | WHERE, LIKE, IN        |
+| Sort        | ORDER BY               |
+| Match Range | BETWEEN                |
+| Exclude     | NOT, IS NOT NULL       |
+| Deduplicate | DISTINCT               |
+
